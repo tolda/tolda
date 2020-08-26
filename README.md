@@ -1,5 +1,4 @@
-### Hi there 👋
-![play](google_dino.jpg)
+![image](https://github.com/tolda/tolda/blob/master/google_dino.gif)
 <!--
 **tolda/tolda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
